@@ -367,6 +367,10 @@ input {
   color: #888;
 }
 
+.app-contact > a {
+  text-decoration: none;
+  color: #fff;
+}
 .app-form-group {
   margin-bottom: 15px;
 }
